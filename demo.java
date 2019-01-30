@@ -4,5 +4,6 @@ class demo
 {..........
 }
 }
+void get data()
 
 
